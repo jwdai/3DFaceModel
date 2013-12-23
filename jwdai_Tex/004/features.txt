@@ -1,0 +1,17 @@
+Neutral_woutg
+AUs number
+6
+
+AUs Values
+0.0661312
+0.0454682
+0.121548
+-0.0441067
+0.149123
+-0.0501331
+
+Model Position
+Translation
+0.374441 0.474914 0.604177
+Rotation
+0.607119 -0.0308063 -0.0188322
